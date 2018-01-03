@@ -1,0 +1,9 @@
+C:\Users\937812\Desktop\teste\bin\Debug\teste.exe.config
+C:\Users\937812\Desktop\teste\bin\Debug\teste.exe
+C:\Users\937812\Desktop\teste\bin\Debug\teste.pdb
+C:\Users\937812\Desktop\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\937812\Desktop\teste\obj\Debug\teste.exe
+C:\Users\937812\Desktop\teste\obj\Debug\teste.pdb
+E:\Documentos\Grafos\teste\bin\Debug\teste.exe.config
+E:\Documentos\Grafos\teste\obj\Debug\teste.exe
+E:\Documentos\Grafos\teste\obj\Debug\teste.pdb

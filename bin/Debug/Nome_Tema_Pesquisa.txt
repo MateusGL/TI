@@ -1,0 +1,5 @@
+01; Gerência de Projetos de Software
+02; Inteligência Artificial
+03; Reconhecimento de Padrões
+04; Reconhecimento de fala
+05; Criptografia: Certificação Digital

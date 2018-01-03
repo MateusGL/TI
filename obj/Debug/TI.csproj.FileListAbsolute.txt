@@ -1,0 +1,12 @@
+E:\Documentos\Grafos\TI\bin\Debug\teste.exe.config
+E:\Documentos\Grafos\TI\bin\Debug\teste.exe
+E:\Documentos\Grafos\TI\bin\Debug\teste.pdb
+E:\Documentos\Grafos\TI\obj\Debug\TI.csprojResolveAssemblyReference.cache
+E:\Documentos\Grafos\TI\obj\Debug\teste.exe
+E:\Documentos\Grafos\TI\obj\Debug\teste.pdb
+C:\Users\mateu\Documents\PUC\Grafos\TI\bin\Debug\teste.exe.config
+C:\Users\mateu\Documents\PUC\Grafos\TI\bin\Debug\teste.exe
+C:\Users\mateu\Documents\PUC\Grafos\TI\bin\Debug\teste.pdb
+C:\Users\mateu\Documents\PUC\Grafos\TI\obj\Debug\TI.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Documents\PUC\Grafos\TI\obj\Debug\teste.exe
+C:\Users\mateu\Documents\PUC\Grafos\TI\obj\Debug\teste.pdb
